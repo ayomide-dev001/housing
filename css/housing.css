@@ -353,6 +353,11 @@ img {
     display: none;
   }
 
+  .mobile-menu-toggle {
+    display: block;
+    padding: 10px;
+  }
+
   .mobile-menu {
     display: block;
   }
